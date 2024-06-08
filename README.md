@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg)](https://github.com/rzkyalbani)
+[![MasterHead](https://image.myanimelist.net/ui/P-bbI39-Le55yVrTkq6nLbvvQnLK9EBai1t-gQdb2AlToxQo_JJ385hkIIVwuMgjjeGJoiQxd8irNq32pT26XETzBM942ytJ3zP9p7G87JVU-K7z1acDKiy52ut7zU2TwVse7IXLneTNGwmfaosx3JzuvHxg-tRRn4nC1NwdB3A)](https://github.com/rzkyalbani)
 
 <h1 align="center">Hi 👋, I'm Rizky Albani</h1>
 <h3 align="center">new to programming</h3>
