@@ -1,18 +1,21 @@
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg)](https://github.com/rzkyalbani)
+
 <h1 align="center">Hi 👋, I'm Rizky Albani</h1>
-<h3 align="center">New to programming</h3>
+<h3 align="center">new to programming</h3>
+<img align="right" alt="Coding" width="400" src="https://wallpapercave.com/wp/wp10474946.png"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rzkyalbani&label=Profile%20views&color=0e75b6&style=flat"
         alt="rzkyalbani" /> </p>
 
 - 🔭 I’m currently working on **...**
 
-- 🌱 I’m currently learning **Dart n Flutter**
+- 🌱 I’m currently learning **dart n flutter**
 
-- 💬 Ask me about **React, Laravel**
+- 💬 Ask me about **react, laravel**
 
 - 📫 How to reach me **rzkyalbani@gmail.com**
 
-- ⚡ Fun fact **💮💮💮 ARM 💮💮💮**
+🦐 🦐 🦐 🦐 🦐
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
