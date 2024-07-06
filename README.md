@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **...**
 
-- 🌱 I’m currently learning **dart n flutter**
+- 🌱 I’m currently learning **...**
 
-- 💬 Ask me about **react, laravel**
+- 💬 Ask me about **javacript**
 
 - 📫 How to reach me **rzkyalbani@gmail.com**
 
