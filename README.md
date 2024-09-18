@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Rizky Albani</h1>
 <img align="right" alt="Coding" width="400" src="https://wallpapercave.com/wp/wp10474946.png"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rzkyalbani&label=Profile%20views&color=0e75b6&style=flat"
-        alt="rzkyalbani" /> </p>
-
 - 🔭 I’m currently working on **...**
 
 - 🌱 I’m currently learning **...**
