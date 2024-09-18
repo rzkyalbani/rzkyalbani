@@ -1,7 +1,4 @@
-[![MasterHead](https://image.myanimelist.net/ui/P-bbI39-Le55yVrTkq6nLbvvQnLK9EBai1t-gQdb2AlToxQo_JJ385hkIIVwuMgjjeGJoiQxd8irNq32pT26XETzBM942ytJ3zP9p7G87JVU-K7z1acDKiy52ut7zU2TwVse7IXLneTNGwmfaosx3JzuvHxg-tRRn4nC1NwdB3A)](https://github.com/rzkyalbani)
-
-<h1 align="center">Hi 👋, I'm Rizky Albani</h1>
-<h3 align="center">new to programming</h3>
+<h1 align="center">Hi, I'm Rizky Albani</h1>
 <img align="right" alt="Coding" width="400" src="https://wallpapercave.com/wp/wp10474946.png"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rzkyalbani&label=Profile%20views&color=0e75b6&style=flat"
