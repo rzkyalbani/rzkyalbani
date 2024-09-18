@@ -1,14 +1,6 @@
 <h1 align="center">Hi, I'm Rizky Albani</h1>
 <img align="right" alt="Coding" width="400" src="https://wallpapercave.com/wp/wp10474946.png"/>
 
-- 🔭 I’m currently working on **...**
-
-- 🌱 I’m currently learning **...**
-
-- 💬 Ask me about **javacript**
-
-- 📫 How to reach me **rzkyalbani@gmail.com**
-
 🦐 🦐 🦐 🦐 🦐
 
 <h3 align="left">Connect with me:</h3>
